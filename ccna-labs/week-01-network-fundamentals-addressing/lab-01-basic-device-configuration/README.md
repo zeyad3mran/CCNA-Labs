@@ -90,8 +90,7 @@ IP `192.168.1.10`, mask `255.255.255.0`, gateway `192.168.1.1`.
 | Config lost after reload | Not saved | Run `copy running-config startup-config` |
 
 ## Files
-- ccna-labs/week-01-network-fundamentals-addressing/lab-01-basic-device-configuration/lab 1.pkt - Packet Tracer file
-
+- [Download Packet Tracer Lab](./lab%201.pkt)
 
 ## Lessons Learned
 - Always set `enable secret` and avoid leaving default or empty passwords.
