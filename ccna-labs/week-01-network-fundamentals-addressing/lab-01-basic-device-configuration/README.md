@@ -6,7 +6,7 @@
 Configure a router and a switch with basic secure settings (hostname, passwords, banner, management IP) and verify end-to-end connectivity with a PC.
 
 ## Topology
-![Topology](images/topology.png)
+![Topology](topology.png)
 
 `PC1 --- SW1 --- R1`
 
@@ -79,7 +79,7 @@ IP `192.168.1.10`, mask `255.255.255.0`, gateway `192.168.1.1`.
 | `ping 192.168.1.2` | PC1 | Replies from SW1 |
 | `show running-config` | R1, SW1 | Hostname, banner and line settings present |
 
-![Verification](images/verification.png)
+![Verification](verification.png)
 
 ## Common Issues & Fixes
 | Problem | Likely cause | Fix |
