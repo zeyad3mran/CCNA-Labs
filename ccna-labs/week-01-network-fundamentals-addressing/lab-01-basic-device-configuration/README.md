@@ -90,8 +90,8 @@ IP `192.168.1.10`, mask `255.255.255.0`, gateway `192.168.1.1`.
 | Config lost after reload | Not saved | Run `copy running-config startup-config` |
 
 ## Files
-- `lab.pkt` - Packet Tracer file
-- `configs/R1.txt`, `configs/SW1.txt` - sanitized device configs (passwords removed)
+- ./lab 1.pkt - Packet Tracer file
+- 
 
 ## Lessons Learned
 - Always set `enable secret` and avoid leaving default or empty passwords.
