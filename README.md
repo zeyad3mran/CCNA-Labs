@@ -8,30 +8,31 @@ Hands-on labs I am building while studying for the **Cisco CCNA (200-301)** exam
 
 | Week | Topic | Labs | Project | Status |
 |------|-------|------|---------|--------|
-| 1 | [Network Fundamentals & Addressing](week-01-network-fundamentals-addressing/) | 10 | Small Company Network with VLSM | In progress (2/10 labs) |
-| 2 | [Switching & VLANs](week-02-switching-vlans/) | 10 | Multi-Department Campus with Inter-VLAN Routing | Not started |
-| 3 | [Layer 2 Redundancy & Security](week-03-layer-2-redundancy-security/) | 10 | Redundant Campus with Secured Access Layer | Not started |
-| 4 | [IP Routing](week-04-ip-routing/) | 10 | Multi-Site WAN with OSPF | Not started |
-| 5 | [IP Services](week-05-ip-services/) | 10 | Branch Internet Access with DHCP, NAT & HSRP | Not started |
-| 6 | [Network Security](week-06-network-security/) | 10 | Secured Enterprise Network with ACLs | Not started |
-| 7 | [IPv6 & Automation](week-07-ipv6-automation/) | 10 | Dual-Stack Network with Automated Backups | Not started |
-| 8 | [Review, Troubleshooting & Final](week-08-review-troubleshooting-final/) | 10 | **Final Project:** Full Enterprise Network | Not started |
+| 1 | [Network Fundamentals & Addressing](ccna-labs/week-01-network-fundamentals-addressing/) | 10 | Small Company Network with VLSM | In progress (2/10 labs) |
+| 2 | [Switching & VLANs](ccna-labs/week-02-switching-vlans/) | 10 | Multi-Department Campus with Inter-VLAN Routing | Not started |
+| 3 | [Layer 2 Redundancy & Security](ccna-labs/week-03-layer-2-redundancy-security/) | 10 | Redundant Campus with Secured Access Layer | Not started |
+| 4 | [IP Routing](ccna-labs/week-04-ip-routing/) | 10 | Multi-Site WAN with OSPF | Not started |
+| 5 | [IP Services](ccna-labs/week-05-ip-services/) | 10 | Branch Internet Access with DHCP, NAT & HSRP | Not started |
+| 6 | [Network Security](ccna-labs/week-06-network-security/) | 10 | Secured Enterprise Network with ACLs | Not started |
+| 7 | [IPv6 & Automation](ccna-labs/week-07-ipv6-automation/) | 10 | Dual-Stack Network with Automated Backups | Not started |
+| 8 | [Review, Troubleshooting & Final](ccna-labs/week-08-review-troubleshooting-final/) | 10 | **Final Project:** Full Enterprise Network | Not started |
 
 ## Repository Structure
 
 ```
-ccna-labs/
-├── README.md
-├── week-01-network-fundamentals-addressing/
-│   ├── README.md                 # week overview and lab list
-│   ├── lab-01-basic-device-configuration/
-│   │   ├── README.md             # objective, steps, verification, lessons
-│   │   ├── lab.pkt               # Packet Tracer file
-│   │   ├── configs/              # sanitized device configs
-│   │   └── images/               # topology and verification screenshots
-│   ├── ...
-│   └── project-small-company-network-with-vlsm/
-└── week-02-.../
+repository/
+├── README.md                     # this file
+└── ccna-labs/
+    ├── week-01-network-fundamentals-addressing/
+    │   ├── README.md                 # week overview and lab list
+    │   ├── lab-01-basic-device-configuration/
+    │   │   ├── README.md             # objective, steps, verification, lessons
+    │   │   ├── lab.pkt               # Packet Tracer file
+    │   │   ├── configs/              # sanitized device configs
+    │   │   └── images/               # topology and verification screenshots
+    │   ├── ...
+    │   └── project-small-company-network-with-vlsm/
+    └── week-02-.../
 ```
 
 ## What Each Lab Contains
