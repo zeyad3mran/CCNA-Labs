@@ -9,7 +9,7 @@ Hands-on labs I am building while studying for the **Cisco CCNA (200-301)** exam
 | Week | Topic | Labs | Project | Status |
 |------|-------|------|---------|--------|
 | 1 | [Network Fundamentals & Addressing](ccna-labs/week-01-network-fundamentals-addressing/) | 10 | Small Company Network with VLSM | Done (10/10 labs) |
-| 2 | [Switching & VLANs](ccna-labs/week-02-switching-vlans/) | 10 | Multi-Department Campus with Inter-VLAN Routing | In progress (1/10 Labs)  |
+| 2 | [Switching & VLANs](ccna-labs/week-02-switching-vlans/) | 10 | Multi-Department Campus with Inter-VLAN Routing | In progress (3/10 Labs)  |
 | 3 | [Layer 2 Redundancy & Security](ccna-labs/week-03-layer-2-redundancy-security/) | 10 | Redundant Campus with Secured Access Layer | Not started |
 | 4 | [IP Routing](ccna-labs/week-04-ip-routing/) | 10 | Multi-Site WAN with OSPF | Not started |
 | 5 | [IP Services](ccna-labs/week-05-ip-services/) | 10 | Branch Internet Access with DHCP, NAT & HSRP | Not started |
