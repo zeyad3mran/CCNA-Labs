@@ -120,6 +120,7 @@ show interfaces status
 VLAN 20 disappears from `show vlan brief`, and Fa0/3 and Fa0/4 are no longer listed under any active VLAN. `show interfaces status` still shows them assigned to VLAN 20, and the ping between PC3 and PC4 fails because the switch does not forward traffic for a VLAN that does not exist. The exact port status text can differ between Packet Tracer and real IOS versions.
 
 ![Deleted VLAN](deleted-vlan2.png)
+![Deleted VLAN](deleted-vlan1.png)
 
 ### 5. Recreate the VLAN
 ```
