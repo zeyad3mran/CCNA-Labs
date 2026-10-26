@@ -4,8 +4,8 @@
 
 | # | Lab | Status |
 |---|-----|--------|
-| 1 | [Create VLANs](lab-01-create-vlans/) | Not started |
-| 2 | [Access Ports & VLAN Assignment](lab-02-access-ports-vlan-assignment/) | Not started |
+| 1 | [Create VLANs](lab-01-create-vlans/) | done |
+| 2 | [Access Ports & VLAN Assignment](lab-02-access-ports-vlan-assignment/) | done |
 | 3 | [802.1Q Trunking](lab-03-802-1q-trunking/) | Not started |
 | 4 | [Native VLAN & Allowed VLANs](lab-04-native-vlan-allowed-vlans/) | Not started |
 | 5 | [DTP Behavior](lab-05-dtp-behavior/) | Not started |
