@@ -28,8 +28,8 @@ repository/
     │   ├── lab-01-basic-device-configuration/
     │   │   ├── README.md             # objective, steps, verification, lessons
     │   │   ├── lab.pkt               # Packet Tracer file
-    │   │   ├── configs/              # sanitized device configs
-    │   │   └── images/               # topology and verification screenshots
+    │   │   ├── configs              # sanitized device configs
+    │   │   └── images               # topology and verification screenshots
     │   ├── ...
     │   └── project-small-company-network-with-vlsm/
     └── week-02-.../
