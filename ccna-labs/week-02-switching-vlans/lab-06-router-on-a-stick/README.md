@@ -109,7 +109,7 @@ show interfaces trunk
 ```
 `show ip route` lists two connected networks, `192.168.10.0/24` on `Gi0/0.10` and `192.168.20.0/24` on `Gi0/0.20`. `show interfaces trunk` on SW1 lists Gi0/1 as a trunk carrying VLANs 10 and 20.
 
-![show ip route](show-ip-route.png)
+![show ip route](show-ip-rout.png)
 
 ![show interfaces trunk](show-interface-trunk.png)
 
