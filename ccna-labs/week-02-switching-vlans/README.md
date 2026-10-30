@@ -14,4 +14,4 @@
 | 8 | [Voice VLAN](lab-08-voice-vlan/) | done |
 | 9 | [VTP](lab-09-vtp/) | done |
 | 10 | [VLAN Troubleshooting](lab-10-vlan-troubleshooting/) | done |
-| P | [**Multi-Department Campus with Inter-VLAN Routing**](project-multi-department-campus-with-inter-vlan-routing/) | Not started |
+| P | [**Multi-Department Campus with Inter-VLAN Routing**](project-multi-department-campus-with-inter-vlan-routing/) | done |
