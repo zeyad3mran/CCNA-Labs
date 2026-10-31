@@ -82,15 +82,15 @@ Results:
 
 SW3 is the root bridge, and all of its ports are designated and forwarding.
 
-![SW3 is the root bridge](stp-root-sw3.png)
+![SW3 is the root bridge](stp-root.png)
 
 SW2 reaches the root through its Fa0/2 port, which is its root port, and its Fa0/1 port is designated.
 
-![Spanning tree on SW2](stp-sw2.png)
+![Spanning tree on SW2](stp-blocked.png)
 
 On SW1 the root port is Fa0/2, and Fa0/1 is the alternate port in blocking state. The upper output shows this normal state, and the lower output was taken after the failure test in Step 5.
 
-![Spanning tree on SW1](stp-sw1.png)
+![Spanning tree on SW1](stp-after-failure.png)
 
 ### 3. Understand the result
 - **Root election:** all three switches have the same priority, 32769, so the lowest MAC address wins. `0001.6414.2998` (SW3) is lower than `000D.BDE4.6E36` (SW2), which is lower than `0060.3E12.E97C` (SW1).
