@@ -4,8 +4,8 @@
 
 | # | Lab | Status |
 |---|-----|--------|
-| 1 | [STP Basics & Root Bridge](lab-01-stp-basics-root-bridge/) | Not started |
-| 2 | [PVST+ Priority per VLAN](lab-02-pvst-priority-per-vlan/) | Not started |
+| 1 | [STP Basics & Root Bridge](lab-01-stp-basics-root-bridge/) | done |
+| 2 | [PVST+ Priority per VLAN](lab-02-pvst-priority-per-vlan/) | done |
 | 3 | [Rapid PVST+](lab-03-rapid-pvst/) | Not started |
 | 4 | [PortFast & BPDU Guard](lab-04-portfast-bpdu-guard/) | Not started |
 | 5 | [EtherChannel (Static)](lab-05-etherchannel-static/) | Not started |
