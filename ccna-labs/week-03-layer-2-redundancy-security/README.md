@@ -10,7 +10,7 @@
 | 4 | [PortFast & BPDU Guard](lab-04-portfast-bpdu-guard/) | done |
 | 5 | [EtherChannel (Static)](lab-05-etherchannel-static/) | done |
 | 6 | [EtherChannel (LACP)](lab-06-etherchannel-lacp/) | done |
-| 7 | [EtherChannel (PAgP)](lab-07-etherchannel-pagp/) | Not started |
+| 7 | [EtherChannel (PAgP)](lab-07-etherchannel-pagp/) | done |
 | 8 | [Port Security](lab-08-port-security/) | Not started |
 | 9 | [DHCP Snooping](lab-09-dhcp-snooping/) | Not started |
 | 10 | [Err-Disable Recovery & Unused Ports](lab-10-err-disable-recovery-unused-ports/) | Not started |
