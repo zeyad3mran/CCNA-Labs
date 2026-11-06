@@ -11,7 +11,7 @@
 | 5 | [EtherChannel (Static)](lab-05-etherchannel-static/) | done |
 | 6 | [EtherChannel (LACP)](lab-06-etherchannel-lacp/) | done |
 | 7 | [EtherChannel (PAgP)](lab-07-etherchannel-pagp/) | done |
-| 8 | [Port Security](lab-08-port-security/) | Not started |
+| 8 | [Port Security](lab-08-port-security/) | done |
 | 9 | [DHCP Snooping](lab-09-dhcp-snooping/) | Not started |
 | 10 | [Err-Disable Recovery & Unused Ports](lab-10-err-disable-recovery-unused-ports/) | Not started |
 | P | [**Redundant Campus with Secured Access Layer**](project-redundant-campus-with-secured-access-layer/) | Not started |
